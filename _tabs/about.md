@@ -14,12 +14,19 @@ Ve volném čase se věnuji **malování**, **programování**, **designu**, **f
 
 Moje velmi oblíbené mangy jsou [Hellsing](https://en.wikipedia.org/wiki/Hellsing) a [Yotsuba&!](https://en.wikipedia.org/wiki/Yotsuba%26!).
 
-Můj list nejvíc oblíbených anime se neobejde bez [Patheon](), [Chainsmoker Cat](https://en.wikipedia.org/wiki/Chainsmoker_Cat), [Cyberpunk: Edgerunners](https://en.wikipedia.org/wiki/Cyberpunk:_Edgerunners).
+Můj list nejvíc oblíbených anime se neobejde bez [Pantheon](https://en.wikipedia.org/wiki/Pantheon_(TV_series)), [Chainsmoker Cat](https://en.wikipedia.org/wiki/Chainsmoker_Cat), [Cyberpunk: Edgerunners](https://en.wikipedia.org/wiki/Cyberpunk:_Edgerunners).
 
 <!-- Zrovna vlastním dvě domény a to <https://chitto.blog/>, <https://ch1tt0.me/>. -->
 
 ## Nejčastěji Používané Technologie:
-- [Rust]()
-- [C++]()
-- [C]()
-- [Markdown]()
+- ### Programovací Jazyky
+	- [Rust](https://rust-lang.org/)
+	- [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+	- [C](https://en.wikipedia.org/wiki/C_(programming_language))
+
+- ### Značkovací Jazyky
+	- [Markdown](https://en.wikipedia.org/wiki/Markdown)
+	- [TOML](https://en.wikipedia.org/wiki/TOML)
+
+- ### Jazyky Pro Definici Stylů
+	- [CSS](https://en.wikipedia.org/wiki/CSS)

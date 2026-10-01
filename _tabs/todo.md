@@ -12,6 +12,7 @@ order: 4
 - [ ] Změň URL na <https://chitto.blog/>.
 - [ ] Dokonči [O mně](/about).
 - [ ] Konvertuj [profilový obrázek](/assets/img/avatar/avatar.png) na SVG.
+- [x] Změň licenci repozitáře tvé stránky.
 
 
 
