@@ -1,9 +1,9 @@
 ---
 icon: fas fa-info-circle
-order: 5
+order: 6
 ---
 
-![Profilový Obrázek](/assets/img/avatar/avatar.webp){: .w-50 .left .rounded-4 }
+![Profilový Obrázek](/assets/img/avatar/avatar.webp){: .w-50 .left .rounded-circle }
 # Chitto
 ---
 Jmenuji se **Jakub Laštovička** ale na internetu se nejčastěji prezentuji pod přezdívkou **Chitto**.

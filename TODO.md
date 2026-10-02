@@ -1,0 +1,4 @@
+- [ ] Použij CDN.
+- [ ] Dokonči [O mně](/about).
+- [ ] Konvertuj [profilový obrázek](/assets/img/avatar/avatar.png) na SVG.
+- [ ] V galerii popiš obrázky.
