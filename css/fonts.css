@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "MapleMono";
+  font-weight: 400;
+  src: url("assets/fonts/MapleMono-NF-Regular.tff") format("ttf");
+}
+
+@font-face {
+  font-family: "MapleMono";
+  font-weight: 700;
+  src: url("assets/fonts/MapleMono-NF-Bold.tff") format("ttf");
+}

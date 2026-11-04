@@ -2,7 +2,11 @@
 *::before,
 *::after {
   all: unset;
+}
+
+* {
   box-sizing: border-box;
+  display: block;
   margin: 0;
   padding: 0;
 }
@@ -16,4 +20,20 @@ script {
   display: none;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-align: left;
+}
 
+p {
+  text-align: left;
+}
+
+strong,
+b {
+  font-weight: 700;
+}
