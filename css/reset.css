@@ -9,6 +9,7 @@
   display: block;
   margin: 0;
   padding: 0;
+  overflow: hidden;
 }
 
 link,
@@ -27,13 +28,49 @@ h4,
 h5,
 h6 {
   text-align: left;
+  color: #eee;
 }
 
-p {
+p,
+a {
+  display: inline;
   text-align: left;
+  color: #eee;
 }
 
 strong,
 b {
   font-weight: 700;
+}
+
+hr {
+  display: block;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  color: #eee;
+  unicode-bidi: isolate;
+  overflow: hidden;
+  border-style: inset;
+  border-width: 1px;
+}
+
+h1 {
+  font-size: xx-large;
+}
+h2 {
+  font-size: x-large;
+}
+h3 {
+  font-size: larger;
+}
+h4 {
+  font-size: large;
+}
+h5 {
+  font-size: medium;
+}
+h6 {
+  font-size: small;
 }
