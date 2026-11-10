@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="css/reset.css" />
+    <link rel="stylesheet" href="css/gallery.css" />
+    <link rel="stylesheet" href="css/fonts.css" />
+  </head>
+  <body>
+    <main id="gallery">
+      <script>
+        const array = [
+          "Aproved.gif",
+          "CryingKonata.gif",
+          "CuriousKonata.gif",
+          "ExciteKonata.gif",
+          "SleepyKonata.gif",
+          "ThinkingKonata.gif",
+          "HeadPat.gif",
+          "PatPat.gif",
+          "PatPatKonata.gif",
+        ];
+
+        const gallery_element = document.getElementById("gallery");
+
+        array.forEach((image) => {
+          const img_element = document.createElement("img");
+          img_element.src = "/assets/images/" + image;
+          gallery_element.appendChild(img_element);
+        });
+      </script>
+    </main>
+  </body>
+</html>
