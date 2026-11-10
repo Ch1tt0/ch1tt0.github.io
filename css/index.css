@@ -30,6 +30,11 @@ nav {
   flex-direction: row;
 }
 
+a {
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
 a:hover {
   cursor: pointer;
 }
@@ -54,8 +59,42 @@ div > img {
   width: 10rem;
   margin: auto;
   border-radius: 50%;
+  user-select: none;
+  -webkit-user-drag: none;
 }
 div > h1 {
   margin: auto;
   width: fit-content;
+}
+
+div > h1 {
+  user-select: none;
+}
+h1 > span {
+  display: inline;
+}
+
+h1 > span:hover {
+  font-weight: 700;
+}
+
+h1 > span:nth-child(1):hover {
+  color: #ff218c;
+  text-shadow: 0 0 5px #ff218c;
+}
+h1 > span:nth-child(2):hover {
+  color: #ffd800;
+  text-shadow: 0 0 5px #ffd800;
+}
+h1 > span:nth-child(3):hover {
+  color: #21b1ff;
+  text-shadow: 0 0 5px #21b1ff;
+}
+h1 > span:nth-child(4):hover {
+  color: #ff218c;
+  text-shadow: 0 0 5px #ff218c;
+}
+h1 > span:nth-child(5):hover {
+  color: #ffd800;
+  text-shadow: 0 0 5px #ffd800;
 }

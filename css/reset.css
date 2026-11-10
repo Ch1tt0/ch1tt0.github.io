@@ -31,7 +31,11 @@ h6 {
   color: #eee;
 }
 
-p,
+p {
+  display: block;
+  text-align: left;
+  color: #eee;
+}
 a {
   display: inline;
   text-align: left;
