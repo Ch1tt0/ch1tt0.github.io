@@ -98,3 +98,7 @@ h1 > span:nth-child(5):hover {
   color: #ffd800;
   text-shadow: 0 0 5px #ffd800;
 }
+h1 > span:nth-child(6):hover {
+  color: #21b1ff;
+  text-shadow: 0 0 5px #21b1ff;
+}
