@@ -78,3 +78,8 @@ h5 {
 h6 {
   font-size: small;
 }
+
+audio {
+  width: 300px;
+  height: 54px;
+}
